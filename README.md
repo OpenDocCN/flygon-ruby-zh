@@ -1,4 +1,4 @@
-# 飞龙的Ruby 译文集
+# 飞龙的 Ruby 译文集
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
@@ -7,10 +7,6 @@
 > 为了理解递归，我们需要首先理解递归。
 
 * [在线阅读](https://ruby.apachecn.org)
-## 目录
-
-+   [我爱 Ruby](docs/iloveruby/SUMMARY.md)
-
 ## 下载
 
 ### Docker
